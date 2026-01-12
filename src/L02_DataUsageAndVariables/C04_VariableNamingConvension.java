@@ -18,6 +18,14 @@ public class C04_VariableNamingConvension {
 		System.out.println(age); // 19
 		// System.out.println(AgE); // We don't have a variable like that
 
+		// int int = 45; You can't use defined keywords as a name in Java
+
+		 // int inT; but this is true
+
+		int studentAge = 12;
+
+		double classesAverageScore = 23.5;
+
 
 
 
