@@ -1,9 +1,8 @@
 package L03_gettingDataFromUSer;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class Cl2_GettingInfoFromUser {
+public class C02_GettingInfoFromUser {
 
 	public static void main(String[] args) {
 
@@ -36,16 +35,5 @@ public class Cl2_GettingInfoFromUser {
 				"\nYour login has successfully made"
 
 		);
-
-
-
-
-
-
-
-
-
-
-
 	}
 }
